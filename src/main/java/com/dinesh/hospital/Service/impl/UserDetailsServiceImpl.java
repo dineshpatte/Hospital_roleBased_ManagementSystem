@@ -1,0 +1,4 @@
+package com.dinesh.hospital.Service.impl;
+
+public class UserDetailsServiceImpl {
+}
